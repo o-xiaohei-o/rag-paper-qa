@@ -15,4 +15,3 @@ Python、LangChain、ChromaDB、Streamlit、OpenAI API、PyPDF
 ## 📦安装依赖
 ```bash
 pip install -r requirements.txt
-<img width="1910" height="915" alt="网页运行图片" src="https://github.com/user-attachments/assets/cb29daef-716b-445e-a660-dee18185bacb" />
